@@ -1,0 +1,13 @@
+body {
+              font-family: Arial, sans-serif;
+              background-color: #f5f5dc;
+              color: #3d3d3d;
+
+              <style> 
+              @import url;
+              @import url list-of-media-queries;
+              @import url layer;
+              @import url layer(pecass painting);
+              @import url layer(layer-name) list-of-media-queries;
+              </style>
+}
